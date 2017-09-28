@@ -6,6 +6,7 @@
 !*.java
 !.gitignore
 !.gitlog.txt
+!readme.txt
 
 # subdirectories
 !*/
